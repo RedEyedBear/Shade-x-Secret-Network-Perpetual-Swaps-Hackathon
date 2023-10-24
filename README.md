@@ -14,8 +14,8 @@ In summary, a hackathon dedicated to building a decentralized perpetual swap exc
 
 * Date and Time: November 16, 2023 - December 16, 2023
 * Location: Virtual
-* Main Communication Channel: Shade Protocol Discord and Secret Network Developer Telegram
-  * Discord: https://discord.gg/shade-protocol-905665558610051113
+* Main Communication Channel: [Shade Protocol Discord[(https://discord.gg/shade-protocol-905665558610051113) and Secret Network Developer Telegram
+* Hackathon Sign Up: 
  
 ***Objectives***
 
