@@ -1,5 +1,4 @@
 # Shade-x-Secret-Network-Perpetual-Swaps-Hackathon
-Hackathon dedicated to building a decentralized perpetual swap exchange on Secret Network
 
 The Secret x Shade Perpetual Swap Hackathon is a collaborative event where talented developers and DeFi visionaries with a passion for privacy can converge and create the next generation of decentralized financial opportunities that preserve user data privacy. Through this Hackathon, Shade Protocol and Secret Network hope to encourage and facilitate the development of a Proof of Concept (PoC) for a decentralized leverage trading platform that utilizes secret smart contracts. If successful, the Hackathon winner would receive a grant from Shade Protocol and Secret Labs to make this PoC production ready and launch on Secret Network Mainnet.
 
@@ -11,40 +10,40 @@ As a result of the high leverage nature of perpetual swaps and the impact they h
 
 In summary, a hackathon dedicated to building a decentralized perpetual swap exchange on Secret Network responds to the need for data privacy in derivative markets and will spur a lasting wave of novel utility, activity and sustainability for Private DeFi on Secret Network.
 
-*Event Details*
+***Event Details***
 
 * Date and Time: November 16, 2023 - December 16, 2023
 * Location: Virtual
 * Main Communication Channel: Shade Protocol Discord and Secret Network Developer Telegram
   * Discord: https://discord.gg/shade-protocol-905665558610051113
  
-*Objectives*
+***Objectives***
 
 * Create PoC for a perpetual swap market using secret smart contracts
 * Create minimal front-end to demo PoC
  
-*Participant Information*
+***Participant Information***
 
 Candidates should have experience in cosmwasm smart contract development (proficiency in rust) with interest or background in economics/finance.
 
-*Hackathon Rewards and Grant Funding*
+***Hackathon Rewards and Grant Funding***
 
 Shade Protocol and Secret Labs are both sponsoring the Hackathon with rewards and grant funding. Prizes will be awarded for the Hackathon based on scores from judging criteria.
 
-* Hackathon Rewards:
-  * Shade Protocol - 15k USD equivalent in SHD
-  * Secret Labs - 5k USD equivalent in SCRT
+***Hackathon Rewards***
+ * Shade Protocol - 15k USD equivalent in SHD
+ * Secret Labs - 5k USD equivalent in SCRT
  
-* Grant Funding to bring PoC to production within Shade dApp suite:
-  *Shade Protocol - 35k USD equivalent in SHD
-  *Secret Labs - 15k USD in SCRT
+***Grant Funding to bring PoC to production within Shade dApp suite***
+ * Shade Protocol - 35k USD equivalent in SHD
+ * Secret Labs - 15k USD in SCRT
 
-* Reward Distribution:
-  *1st - 10k USD equivalent in SHD + SCRT
-  *2nd - 6k USD equivalent in SHD + SCRT
-  *3rd - 4k USD equivalent in SHD + SCRT
+***Reward Distribution***
+ * 1st - 10k USD equivalent in SHD + SCRT
+ * 2nd - 6k USD equivalent in SHD + SCRT
+ * 3rd - 4k USD equivalent in SHD + SCRT
 
-*Agenda*
+***Agenda***
 
 | Workshop | Date | Topic | Presenter |
 | :--------: | :-------: | :--------: | :--------: |
@@ -61,7 +60,7 @@ Shade Protocol and Secret Labs are both sponsoring the Hackathon with rewards an
 | Workshop 4b | TBD | Mentor Office Hours | TBD |
 | Workshop 4b | TBD | Mentor Office Hours | TBD |
 
-*Resources*
+***Resources***
 
 Shade Protocol is an interconnected suite of DeFi primitives that provides a unified user experience for DeFi participants. Our full docs are available [here](https://docs.shadeprotocol.io/shade-protocol/). For more in depth information on the various Shade dApps, our whitepaper is [here](https://shadeprotocol.io/wp-content/uploads/2023/01/Shade-Protocol-Whitepaper.pdf). 
 
@@ -94,7 +93,7 @@ Perpetual Swap Exchange Technical Resources:
 * [GMX Contracts - Github](https://github.com/gmx-io/gmx-contracts/tree/master)
 * [Levana Technical Overview](https://docs.levana.finance/high-level-overview)
 
-*Evaluation and Success Metrics*
+***Evaluation and Success Metrics***
 
 Requirements:
 
@@ -105,19 +104,19 @@ Requirements:
     * Matching engine that matches buy and sell orders based on predetermined criteria and execute them
     * Users should be able to open, modify and close positions
     * Implement risk management mechanisms including the ability for admin/gov to set market and position limits, max leverage limits, circuit breakers, liquidation mechanisms, etc 
-    *Calculate and apply funding rates to maintain fair market price in swap contracts (payments between long and short position holders)
+    * Calculate and apply funding rates to maintain fair market price in swap contracts (payments between long and short position holders)
   * Liquidity Pool (AMM) Contracts:
-    *Integrate with perpetual swap contracts
+    * Integrate with perpetual swap contracts
     * Allow users to provide liquidity to the perpetual swap contracts by depositing assets into the liquidity pools. Users provide assets for both long and short positions.
     * Allow users to swap using LPs
-    *Ensure LPs are balanced to maintain asset ratios
-    *Charge fees on trades that occur
+    * Ensure LPs are balanced to maintain asset ratios
+    * Charge fees on trades that occur
   * Price Feed Contracts
     * Accepts submissions of price feeds from oracles or keeper
     * Ensure security mechanisms are in place to prevent tampering and redundancy in case of outage
     * Ability to utilize multiple oracles
 
-*Judging Criteria*
+***Judging Criteria***
 
 Judging will be performed by a panel of 3 engineers (1 from Shade, 1 from Slabs, 1 from Secret Network Developer community)
 
@@ -144,7 +143,7 @@ Judging will be performed by a panel of 3 engineers (1 from Shade, 1 from Slabs,
   * Demo Quality
   * Communication
 
-*Rules and Guidelines*
+***Rules and Guidelines***
 
 * Collaboration: Foster a spirit of collaboration and teamwork. Share knowledge and ideas openly, and be willing to help and learn from others.
 * Ethical Behavior: Abide by ethical standards and legal regulations. Do not engage in any form of cheating, plagiarism, or unethical conduct.
