@@ -47,7 +47,7 @@ Shade Protocol and Secret Labs are both sponsoring the Hackathon with rewards an
 *Agenda*
 
 |Workshop| Date | Topic | Presenter |
-| :--------: | :-------: | :--------: |
+| :--------: | :-------: | :--------: | :--------: |
 | Workshop 1a | TBD | Hackathon Keynote Speech: "Closing the sustainability loop with Perpetual Swaps" | Carter Woetzel - Shade Protocol |
 | Workshop 1b | TBD | Introduction to Secret Smart Contract Development and Shade Dev Environment Set-up | Jackson Swenson - Shade Protocol |
 | Workshop 2a | TBD | Financial Mathematical Modeling for Perpetual Swap Exchanges | TBD |
