@@ -30,15 +30,15 @@ Candidates should have experience in cosmwasm smart contract development (profic
 
 Shade Protocol and Secret Labs are both sponsoring the Hackathon with rewards and grant funding. Prizes will be awarded for the Hackathon based on scores from judging criteria.
 
-***Hackathon Rewards***
+* Hackathon Rewards
  * Shade Protocol - 15k USD equivalent in SHD
  * Secret Labs - 5k USD equivalent in SCRT
  
-***Grant Funding to bring PoC to production within Shade dApp suite***
+* Grant Funding to bring PoC to production within Shade dApp suite
  * Shade Protocol - 35k USD equivalent in SHD
  * Secret Labs - 15k USD in SCRT
 
-***Reward Distribution***
+* Reward Distribution
  * 1st - 10k USD equivalent in SHD + SCRT
  * 2nd - 6k USD equivalent in SHD + SCRT
  * 3rd - 4k USD equivalent in SHD + SCRT
@@ -50,15 +50,15 @@ Shade Protocol and Secret Labs are both sponsoring the Hackathon with rewards an
 | Workshop 1a | TBD | Hackathon Keynote Speech: "Closing the sustainability loop with Perpetual Swaps" | Carter Woetzel - Shade Protocol |
 | Workshop 1b | TBD | Introduction to Secret Smart Contract Development and Shade Dev Environment Set-up | Jackson Swenson - Shade Protocol |
 | Workshop 2a | TBD | Financial Mathematical Modeling for Perpetual Swap Exchanges | TBD |
-| Workshop 3a | TBD | Advanced SecretWasm Development - building complex interactions | Slabs |
-| Workshop 2a | TBD | Risk Management in DeFi | TBD |
-| Workshop 3a | TBD | Smart Contract Security and Gas Optimization | Baedrik - Mr. Roboto |
-| Workshop 2a | TBD | Price Feeds and Oracle Integration | Woz - Ojo |
-| Workshop 3b | TBD | Unit Tests, Multi-tests, and other smart contract debugging strategies | Jackson Swenson - Shade Protocol |
-| Workshop 4a | TBD | Backend Services and Data Visualization | Carlos - Shade Protocol |
-| Workshop 2a | TBD | Front-end Development using SecretJS | Austin Woetzel - Shade Protocol |
-| Workshop 4b | TBD | Mentor Office Hours | TBD |
-| Workshop 4b | TBD | Mentor Office Hours | TBD |
+| Workshop 2b | TBD | Advanced SecretWasm Development - building complex interactions | Slabs |
+| Workshop 3a | TBD | Risk Management in DeFi | TBD |
+| Workshop 3b | TBD | Smart Contract Security and Gas Optimization | Baedrik - Mr. Roboto |
+| Workshop 4a | TBD | Price Feeds and Oracle Integration | Woz - Ojo |
+| Workshop 4b | TBD | Unit Tests, Multi-tests, and other smart contract debugging strategies | Jackson Swenson - Shade Protocol |
+| Workshop 5a | TBD | Backend Services and Data Visualization | Carlos - Shade Protocol |
+| Workshop 5b | TBD | Front-end Development using SecretJS | Austin Woetzel - Shade Protocol |
+| Workshop 6a | TBD | Mentor Office Hours | TBD |
+| Workshop 6b | TBD | Mentor Office Hours | TBD |
 
 ***Resources***
 
