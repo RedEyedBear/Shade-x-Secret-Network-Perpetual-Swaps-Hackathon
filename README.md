@@ -31,17 +31,17 @@ Candidates should have experience in cosmwasm smart contract development (profic
 Shade Protocol and Secret Labs are both sponsoring the Hackathon with rewards and grant funding. Prizes will be awarded for the Hackathon based on scores from judging criteria.
 
 * Hackathon Rewards
- * Shade Protocol - 15k USD equivalent in SHD
- * Secret Labs - 5k USD equivalent in SCRT
+  * Shade Protocol - 15k USD equivalent in SHD
+  * Secret Labs - 5k USD equivalent in SCRT
  
 * Grant Funding to bring PoC to production within Shade dApp suite
- * Shade Protocol - 35k USD equivalent in SHD
- * Secret Labs - 15k USD in SCRT
+  * Shade Protocol - 35k USD equivalent in SHD
+  * Secret Labs - 15k USD in SCRT
 
 * Reward Distribution
- * 1st - 10k USD equivalent in SHD + SCRT
- * 2nd - 6k USD equivalent in SHD + SCRT
- * 3rd - 4k USD equivalent in SHD + SCRT
+  * 1st - 10k USD equivalent in SHD + SCRT
+  * 2nd - 6k USD equivalent in SHD + SCRT
+  * 3rd - 4k USD equivalent in SHD + SCRT
 
 ***Agenda***
 
