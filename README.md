@@ -126,12 +126,15 @@ Judging will be performed by a panel of 3 engineers (1 from Shade, 1 from Slabs,
   * Security
 * Technical Implementation (25 points):
   * Code Quality (coding standards, readability, and maintainability)
-  * Gas Efficiency
+  * Gas Efficiency (measured as gas cost relative to benchmark, scaled multiplicatively)
   * Scalability
+* Usability (30 points):
+  * Necessary contract interactions using testnet front-end for full user story
+  * Accurate data visualization
 * Integration and Interoperability (15 points):
   * Compatibility with Shade dependencies, oracles, wallets, external data sources, etc
   * Interoperability with other Shade Protocol contracts
-* Documentation (10 points):
+* Documentation (15 points):
   * Clarity and completeness
   * Instructions for how to interact with contracts
 * Testing (10 points):
@@ -139,9 +142,11 @@ Judging will be performed by a panel of 3 engineers (1 from Shade, 1 from Slabs,
 * Innovation and Concept (10 points):
   * Innovative Features
   * Concept Feasibility
-* Presentation and Communication (10 points):
+* Presentation and Communication (15 points):
   * Demo Quality
   * Communication
+
+Total Scores out of 150 points.
 
 ***Rules and Guidelines***
 
