@@ -47,18 +47,18 @@ Shade Protocol and Secret Labs are both sponsoring the Hackathon with rewards an
 
 | Workshop | Date | Topic | Presenter |
 | :--------: | :-------: | :--------: | :--------: |
-| Workshop 1a | TBD | Hackathon Keynote Speech: "Closing the sustainability loop with Perpetual Swaps" | Carter Woetzel - Shade Protocol |
-| Workshop 1b | TBD | Introduction to Secret Smart Contract Development and Shade Dev Environment Set-up | Jackson Swenson - Shade Protocol |
-| Workshop 2a | TBD | Financial Mathematical Modeling for Perpetual Swap Exchanges | TBD |
-| Workshop 2b | TBD | Advanced SecretWasm Development - building complex interactions | Slabs |
-| Workshop 3a | TBD | Risk Management in DeFi | TBD |
-| Workshop 3b | TBD | Smart Contract Security and Gas Optimization | Baedrik - Mr. Roboto |
-| Workshop 4a | TBD | Price Feeds and Oracle Integration | Woz - Ojo |
-| Workshop 4b | TBD | Unit Tests, Multi-tests, and other smart contract debugging strategies | Jackson Swenson - Shade Protocol |
-| Workshop 5a | TBD | Backend Services and Data Visualization | Carlos - Shade Protocol |
-| Workshop 5b | TBD | Front-end Development using SecretJS | Austin Woetzel - Shade Protocol |
-| Workshop 6a | TBD | Mentor Office Hours | TBD |
-| Workshop 6b | TBD | Mentor Office Hours | TBD |
+| Workshop 1a | Nov. 16th | Hackathon Keynote Speech: "Closing the sustainability loop with Perpetual Swaps" | Carter Woetzel - Shade Protocol |
+| Workshop 1b | Nov. 21st | Introduction to Secret Smart Contract Development and Shade Dev Environment Set-up | Jackson Swenson - Shade Protocol |
+| Workshop 2a | Nov. 23rd | Financial Mathematical Modeling for Perpetual Swap Exchanges | TBD |
+| Workshop 2b | Nov. 27th | Advanced SecretWasm Development - building complex interactions | Slabs |
+| Workshop 3a | Nov. 29th | Risk Management in DeFi | TBD |
+| Workshop 3b | Dec. 1st | Smart Contract Security and Gas Optimization | Baedrik - Mr. Roboto |
+| Workshop 4a | Dec. 4th | Price Feeds and Oracle Integration | Woz - Ojo |
+| Workshop 4b | Dec. 6th | Unit Tests, Multi-tests, and other smart contract debugging strategies | Jackson Swenson - Shade Protocol |
+| Workshop 5a | Dec. 8th | Backend Services and Data Visualization | Carlos - Shade Protocol |
+| Workshop 5b | Dec. 11th | Front-end Development using SecretJS | Austin Woetzel - Shade Protocol |
+| Workshop 6a | Dec. 13th | Mentor Office Hours | TBD |
+| Workshop 6b | Dec. 15th | Mentor Office Hours | TBD |
 
 ***Resources***
 
